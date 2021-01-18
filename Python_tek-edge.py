@@ -51,5 +51,12 @@ dict1['key1']
 dict1.update({'key3':4,'key5':5})
 
 ########### Tuple
+t = (10, 20, 30, 'xx')
+type(t)
+# immutable array
+          
+len(t)
+max(t)
+min(t)
 
 
