@@ -59,4 +59,28 @@ len(t)
 max(t)
 min(t)
 
+###################
+# Conditinal block
+# if, else, elif
+###################
+
+if True:
+          print('TRUE')
+else False:
+          print('FALSE')
+if x==1:
+          print('x is 1')
+elif x==2:
+          print('x is 2')
+else:
+          print('x is 3')
+# and- &/ or - | 
+
+
+################
+# Function
+################
+
+# lmbda
+a = lambda x,y: x/y
 
